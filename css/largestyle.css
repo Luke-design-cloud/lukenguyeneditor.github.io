@@ -348,8 +348,10 @@ p{
 
 #footer{
 position: absolute;
-bottom: -2200px;
+
 right:180px;
+
+bottom: -600px;
 width:1100px;
 }
 #footer footer ul{
