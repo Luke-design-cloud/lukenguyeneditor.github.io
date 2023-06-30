@@ -4,8 +4,8 @@ body{
 	max-width: 1140px;
     min-height: 440vh;
     line-height: 150%;
-    height: calc( 100% - 40px );
-    width: calc( 100% - 40px );
+    
+    width: 100vw;
     color:aliceblue;
     background: linear-gradient(#1A2238,#5d026f,#36EACC);
     background-repeat: no-repeat;
