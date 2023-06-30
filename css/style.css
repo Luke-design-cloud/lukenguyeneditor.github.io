@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT&family=Oswald:wght@400;500&family=Roboto:wght@300&display=swap');
+
+@import url('smallstyle.css') screen and (max-width: 768px);
+/*  6.2 */
+@import url('largestyle.css') screen and (min-width: 768px) and (max-width: 1500px);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+pre{
+    font-family: Roboto, sans-serif; 
+}
+.footer footer ul a:hover{
+    color: #36EACC;
+    text-decoration: none;
+}
+
