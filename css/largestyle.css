@@ -4,7 +4,7 @@ body{
 	
     min-height: 440vh;
     line-height: 150%;
-    
+    max-width:1140px;
     width: 100vw;
     color:aliceblue;
     background: linear-gradient(#1A2238,#5d026f,#36EACC);
